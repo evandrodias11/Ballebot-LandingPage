@@ -4,7 +4,7 @@
 <div>
   <h2> 🔍 Dá uma olhada:</h2>
   <img src="https://user-images.githubusercontent.com/65000871/147419409-8da606fd-a24c-40d8-99d4-ac05e1544621.png" />
-  <h5 align="center"><a href="ballebot-landingpage.netlify.app">LINK DO PROJETO!</a> </h5>
+  <h5 align="center"><a href="https://ballebot-landingpage.netlify.app">LINK DO PROJETO!</a> </h5>
 </div>
 
 <div>
